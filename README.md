@@ -7,7 +7,6 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=889-dj&repo=num-guess-game)](https://github.com/889-dj/github-readme-stats)
 
 ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=889-dj&show_icons=true&theme=calm)
 
