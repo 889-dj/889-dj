@@ -8,8 +8,11 @@
 
 
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=889-dj&show_icons=true&theme=calm)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=889-dj&theme=dracula)](https://git.io/streak-stats)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=889-dj&show_icons=true&theme=calm" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=889-dj&theme=calm" />
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=889-dj&style=plastic&color=red)
