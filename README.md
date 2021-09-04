@@ -1,8 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev!
 
-<a href="mailto:devj5509@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><br/>
+[![Gmail](https://img.shields.io/badge/Gmail-white?&style=for-the-badge&logo=gmail)](mailto:devj5509@gmail.com)
 
 
 
