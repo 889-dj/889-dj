@@ -1,8 +1,12 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dev!
 
-<a href="mailto:devj5509@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><br/>
+
+<p align="left">
+<a href="https://codepen.io/captain-dj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@captain-dj" height="30" width="40" /></a>
+<a href="https://twitter.com/devjtwt786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjtwt786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-jain-a26654177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-jain" height="30" width="40" /></a>
+<a href="https://hashnode.com/@devjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devjain" height="30" width="40" /></a>
+</p>
 
 
 
