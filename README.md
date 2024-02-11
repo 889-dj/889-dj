@@ -13,9 +13,10 @@
 
 
 ## About Me
-🎓 I’m an Open-Source enthusiast and a junior pursuing my Bachelors in Computer Science & Engineering.<br/>
-👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps, and I enjoy learning new things.</br>
+🎓 senior pursuing my Bachelors in Computer Science & Engineering.<br/>
+👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps, Open-Source and I keep learning new things.</br>
 🎓 I am currently learning Node Js, expressjs and DOCKER.
+📬 You can contact me through email - devjain799@gmail.com
 
 ## Technologies
 ### Language:
@@ -30,6 +31,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-6f62FF?style=for-the-badge&logo=next.js&logoColor=white)
 
 
 ### Design:
