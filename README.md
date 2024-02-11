@@ -15,7 +15,7 @@
 ## About Me
 🎓 senior pursuing my Bachelors in Computer Science & Engineering.<br/>
 👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps, Open-Source and I keep learning new things.</br>
-🎓 I am currently learning Node Js, expressjs and DOCKER.
+📖 I am currently learning backend <br/>
 📬 You can contact me through email - devjain799@gmail.com
 
 ## Technologies
