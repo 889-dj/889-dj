@@ -1,67 +1,47 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Dev!
+# Hi, I'm Dev Jain 👋
+
+**Software Engineer • React Native + React • builds end-to-end • Hyderabad, India**
+
+I build mobile and web apps end-to-end — React Native and React on the front, Node.js and AWS behind them. Currently shipping at **Vela (formerly Reewild)**, where I work on mobile apps, gamification, AI-integrated workflows, and mobile CI/CD.
+
+- 🔭 Currently: AI-integrated mobile features + mobile CI/CD (Maestro, EAS, GitHub Actions, OTA)
+- 🌱 Sharpening: backend depth (system design, databases) and TypeScript
+- 💬 Ask me about: React Native, Expo/EAS, shipping apps end-to-end, AI-agent integration
+- 📫 devjain2200@gmail.com · [LinkedIn](https://linkedin.com/in/dev-jain1) · [Portfolio](https://devjain.in)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend & Mobile** &nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Languages** &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Cloud** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=889-dj&theme=github_dark" width="100%" /> <br/>
 
 
-<p align="left">
-<a href="https://codepen.io/captain-dj" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@captain-dj" height="30" width="40" /></a>
-<a href="https://twitter.com/devjtwt786" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devjtwt786" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev-jain-a26654177" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-jain" height="30" width="40" /></a>
-<a href="https://hashnode.com/@Devjain" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@devjain" height="30" width="40" /></a>
-<a href="https://www.figma.com/@devjain" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="30" align="center"/> </a>
-</p>
-
-
-
-
-## About Me
-🎓 Graduate - Bachelors in Computer Science & Engineering.<br/>
-👨‍💻 I am passionate about Kubernetes, Web Dev, DevOps, Open-Source and I keep learning new things.</br>
-📖 I am currently learning Devops <br/>
-📬 You can contact me through email - devniaj12@gmail.com
-
-## Technologies
-### Language:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Javascript](https://img.shields.io/badge/-javascript-FFED66?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-6f62FF?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-### Design:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### Cloud & Development Tools:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=889-dj&show_icons=true&theme=calm" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=889-dj&theme=calm" />
-</p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=889-dj&layout=compact&theme=calm)](https://github.com/889-dj/github-readme-stats)
-
-
-
-![](https://komarev.com/ghpvc/?username=889-dj&style=plastic&color=red)
-
+📍 Open to remote React Native / frontend / full-stack roles.
 
 
 
