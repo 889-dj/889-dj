@@ -5,6 +5,7 @@
 I build mobile and web apps end-to-end — React Native and React on the front, Node.js and AWS behind them. Currently shipping at **Vela (formerly Reewild)**, where I work on mobile apps, gamification, AI-integrated workflows, and mobile CI/CD.
 
 - 🔭 Currently: AI-integrated mobile features + mobile CI/CD (Maestro, EAS, GitHub Actions, OTA)
+- 🤖 Also: built production AI agents with Hermes (Azure Container Apps) that run real sales, marketing, and PM workflows
 - 🌱 Sharpening: backend depth (system design, databases) and TypeScript
 - 💬 Ask me about: React Native, Expo/EAS, shipping apps end-to-end, AI-agent integration
 - 📫 devjain2200@gmail.com · [LinkedIn](https://linkedin.com/in/dev-jain1) · [Portfolio](https://devjain.in)
